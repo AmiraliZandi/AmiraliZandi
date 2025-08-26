@@ -10,17 +10,18 @@ from Universe.Earth import Human
 
 class Amirali(Human) :
     full_name = "AmiraliZandirad"
-    age = 14
+    age = 15
     education = "It is still going on"
 
     programming_lang = ["python", "solidity"]
-    frameworks = ["kivy", "kivymd", "Numpy", "pandas", "pyrogram", "telegram-bot", "open-cv" , "Web3", "hashlib"]
+    frameworks = ["kivy", "kivymd", "Numpy", "pandas", "pyrogram", "telegram-bot", "open-cv" , "Web3", "hashlib", ...]
 
     Favorites = [
         "AI",
         "programming",
         "story book",
-        "English Language"
+        "English Language",
+        "Germany language"
     ]
 
     learning = [
@@ -28,8 +29,9 @@ class Amirali(Human) :
             "Machine learning",
         "solidity",
         "English Language"
+        "Germany language"
     ]
-    working_on = ["learning Machine learning in Sharif University"]
+    working_on = ["leraning machin learning in آکادمی همراه اول"]
 
 ```
 ## for learning ? ⭐
