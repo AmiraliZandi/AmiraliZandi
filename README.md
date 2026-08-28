@@ -10,11 +10,15 @@ from Universe.Earth import Human
 
 class Amirali(Human) :
     full_name = "AmiraliZandirad"
-    age = 15
+    age = 16
     education = "It is still going on"
 
-    programming_lang = ["python", "solidity"]
-    frameworks = ["kivy", "kivymd", "Numpy", "pandas", "pyrogram", "telegram-bot", "open-cv" , "Web3", "hashlib", ...]
+    programming_skills = ["python", "solidity","Api","ML","Docker","WebDataset","Parquet","Apache","Spark"]
+    technologies = [
+        "scikit-learn","XGBoost","LightGBM","CatBoost""NumPy", "pandas", "OpenCV", "PyTorch",
+        "TensorFlow","Keras","JAX","Docker",
+        "pyrogram", "telegram-bot",...
+    ]
 
     Favorites = [
         "AI",
@@ -27,25 +31,15 @@ class Amirali(Human) :
     learning = [
         "python":
             "Machine learning",
+            "Deep learning",
+        "MLObs",
         "solidity",
         "English Language"
         "Germany language"
     ]
-    working_on = ["leraning machin learning in آکادمی همراه اول"]
+    working_on = ["Developing a personal project"]
 
 ```
-## for learning ? ⭐
-<br>
-<h3 align="left">🛠️ MachinLearning | 30%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="120px" height="16px">
-<br>
-<br>
-<h3 align="left">⭐ web programming | 40%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="180px" height="16px">
-<br>
-<h3 align="left">🌐 solidity | 75%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="475px" height="16px">
-<br>
-<br>
-<h3 align="left"> 🐍 Python | 90%</h3><img align="left" src="https://raw.githubusercontent.com/AmiraliZandi/AmiraliZandi/main/bar.png" width="600px" height="16px">
-<br>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
